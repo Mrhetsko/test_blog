@@ -27,8 +27,8 @@ It follows a layered architecture, separating concerns into routing, business lo
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Mrhetsko/test_blog.git
+cd test_blog
 ```
 
 ### 2. Create the virtual environment
